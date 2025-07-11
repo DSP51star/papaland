@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "user": "usuario1",
-      "pass": "contraseña1"
+      "user": "admin",
+      "pass": "1234"
     },
     {
-      "user": "otro",
-      "pass": "12345"
+      "user": "test",
+      "pass": "abcd"
     }
   ]
 }
